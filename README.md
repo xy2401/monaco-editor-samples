@@ -3,11 +3,11 @@
 
 # 说明
 
-[browser-amd-editor](/browser-amd-editor)  编辑器
+[browser-amd-editor](browser-amd-editor/)  编辑器
 
-[browser-amd-diff-editor](/browser-amd-diff-editor)  显示差异
+[browser-amd-diff-editor](browser-amd-diff-editor/)  显示差异
 
-[browser-amd-iframe](/browser-amd-iframe) iframe
+[browser-amd-iframe](browser-amd-iframe/) iframe
 
 延迟3秒显示 4 个 iframe , 前3个由 css 控制了 大小/可见性 ,所以一开始不可见 , 第四个是由 js 动态创建
 
@@ -17,9 +17,9 @@
 	taken off-dom while loading: {}  --> {width: 400px; height: 100px; display:'block' ;visibility:'visible'}
 
 
-[browser-amd-localized](/browser-amd-localized) 本地化 德语
+[browser-amd-localized](browser-amd-localized/) 本地化 德语
 
-[browser-amd-monarch](/browser-amd-monarch) monarch 语法高亮
+[browser-amd-monarch](browser-amd-monarch/) monarch 语法高亮
 
 日志 语法 高亮 `error` `info` `notice` `date` 等信息
 
@@ -32,26 +32,26 @@
 					],
 				}
 
-[browser-amd-requirejs](/browser-amd-requirejs) Loading with requirejs
+[browser-amd-requirejs](browser-amd-requirejs/) Loading with requirejs
 
 
-[browser-amd-shared-model](/browser-amd-shared-model) 共享模型
+[browser-amd-shared-model](browser-amd-shared-model/) 共享模型
 
  两个编辑器同步修改代码
 
-[browser-script-editor](/browser-script-editor) Sync Loading Sample 同步加载
+[browser-script-editor](browser-script-editor/) Sync Loading Sample 同步加载
 
-[browser-undo-redo-controls](/browser-undo-redo-controls) 撤销 重做控制
+[browser-undo-redo-controls](browser-undo-redo-controls/) 撤销 重做控制
 
-[browser-esm-parcel](/browser-esm-parcel)
-[browser-esm-webpack](/browser-esm-webpack)
-[browser-esm-webpack-small](/browser-esm-webpack-small)
+[browser-esm-parcel](browser-esm-parcel/)
+[browser-esm-webpack](browser-esm-webpack/)
+[browser-esm-webpack-small](browser-esm-webpack-small/)
 
 
-[electron-amd](/electron-amd)
-[node_modules](/node_modules)
-[nwjs-amd](/nwjs-amd)
-[nwjs-amd-v2](/nwjs-amd-v2)
+[electron-amd](electron-amd/)
+[node_modules](node_modules/)
+[nwjs-amd](nwjs-amd/)
+[nwjs-amd-v2](nwjs-amd-v2/)
 
 
 
